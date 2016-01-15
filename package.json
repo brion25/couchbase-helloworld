@@ -1,0 +1,24 @@
+{
+  "name": "couchbase-helloworld",
+  "version": "1.0.0",
+  "description": "Basic example of an App integrated with Couchbase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brion25/couchbase-helloworld.git"
+  },
+  "keywords": [
+    "couchbase",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "JC Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brion25/couchbase-helloworld/issues"
+  },
+  "homepage": "https://github.com/brion25/couchbase-helloworld#readme"
+}
